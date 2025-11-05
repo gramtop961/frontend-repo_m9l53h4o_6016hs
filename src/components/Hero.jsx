@@ -11,7 +11,7 @@ export default function Hero() {
           <span>Welcome to your new React + Tailwind app</span>
         </div>
         <h1 className="mt-6 bg-gradient-to-b from-white to-white/70 bg-clip-text text-5xl font-extrabold tracking-tight text-transparent sm:text-6xl">
-          Hello Jane
+          Hello Dave
         </h1>
         <p className="mx-auto mt-4 max-w-2xl text-base text-white/70 sm:text-lg">
           A clean starting point with a polished aesthetic. Explore a modern layout, subtle gradients, and reusable components to accelerate your next idea.

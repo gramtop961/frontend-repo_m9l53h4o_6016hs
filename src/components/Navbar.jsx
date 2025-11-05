@@ -9,7 +9,7 @@ export default function Navbar() {
           <div className="grid h-9 w-9 place-items-center rounded-lg bg-gradient-to-br from-indigo-500 to-fuchsia-500 text-white shadow-lg shadow-fuchsia-500/20 ring-1 ring-white/10">
             <Rocket className="h-5 w-5" />
           </div>
-          <span className="text-lg font-semibold tracking-tight text-white">Hello Jane</span>
+          <span className="text-lg font-semibold tracking-tight text-white">Hello Dave</span>
         </div>
         <nav className="hidden items-center gap-6 text-sm text-white/80 md:flex">
           <a href="#features" className="transition hover:text-white">Features</a>
